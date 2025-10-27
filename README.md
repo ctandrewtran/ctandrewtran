@@ -1,9 +1,9 @@
 # 👋 Welcome to my github profile!
 
 ### whoami
-I am currently a Senior AI/ML Engineer with The Hartford. 
+I am currently a Senior AI/ML Engineer with Judi Health, formally known as CapitalRX. 
 I have had past experiences as:
-* Jr, then Mid level AI/ML Engineer with The Hartford
+* Jr/Mid/Senior level AI/ML Engineer with The Hartford with experience in AI/ML Ops and Applied AI/ML.
 * A Product & Marketing, InsurTech Fellow, at Pineapple Insurance
 
 ### Notable Contributions
